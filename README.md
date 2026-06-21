@@ -26,4 +26,10 @@ This started as just the adder and FSM, then I added the ALU and UART after to c
 
 ## Possible next steps
 
-- Combine the ALU and adder into
+Possible next steps
+
+- Combine the ALU and adder into a larger digital processing unit
+- Add a UART receiver module
+- Implement SPI communication modules
+- Simulate the design on FPGA development boards
+- Extend the traffic light controller with pedestrian crossing support.
